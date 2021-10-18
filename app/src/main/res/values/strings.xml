@@ -2,4 +2,5 @@
     <string name="app_name">Test_prject</string>
     <string name="Location">Локации</string>
     <string name="Street">Улица</string>
+    <string name="Location">Локации</string>
 </resources>
